@@ -1,0 +1,16 @@
+{
+  "name": "Master TKA Bahasa Indonesia 2026",
+  "short_name": "Master TKA 2026",
+  "description": "Aplikasi Asesmen dan Bimbingan Intensif TKA Bahasa Indonesia Wajib 2026 Bersama Mister Jo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#C8102E",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
